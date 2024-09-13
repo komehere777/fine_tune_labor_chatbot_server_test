@@ -13,8 +13,8 @@
 ```python
 git clone https://github.com/komehere777/labor_chatbot_server.git
 cd labor_chatbot_server
-# 가상환경 생성
-python -m venv venv
+# 가상환경 생성 우분투
+python3 -m venv venv
 # 가상환경 활성화: 윈도우
 venv\Scripts\activate
 # 가상환경 활성화: 리눅스
